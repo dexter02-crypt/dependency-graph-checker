@@ -1,0 +1,10 @@
+test_cycle (test_core.Tests.test_cycle) ... ok
+test_depth (test_core.Tests.test_depth) ... ok
+test_dot (test_core.Tests.test_dot) ... ok
+test_missing (test_core.Tests.test_missing) ... ok
+test_order (test_core.Tests.test_order) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK

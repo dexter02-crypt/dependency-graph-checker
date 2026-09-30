@@ -1,0 +1,13 @@
+digraph dependencies {
+  rankdir=LR;
+  "api";
+  "auth";
+  "db";
+  "frontend";
+  "worker";
+  "auth" -> "api";
+  "db" -> "api";
+  "db" -> "auth";
+  "api" -> "frontend";
+  "db" -> "worker";
+}

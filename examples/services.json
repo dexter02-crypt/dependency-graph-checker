@@ -1,0 +1,16 @@
+{
+  "frontend": [
+    "api"
+  ],
+  "api": [
+    "auth",
+    "db"
+  ],
+  "worker": [
+    "db"
+  ],
+  "auth": [
+    "db"
+  ],
+  "db": []
+}
